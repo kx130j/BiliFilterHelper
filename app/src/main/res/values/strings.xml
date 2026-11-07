@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">B站净化助手 (免Root)</string>
+    <string name="accessibility_service_label">B站推广视频自动跳过与遮罩服务</string>
+    <string name="accessibility_service_description">免Root且不修改B站客户端。开启后支持：1. 刷竖屏视频（Story模式）时自动识别“火箭标/创作推广/商业推广”并极速向上划走；2. 首页双列推荐流自动识别推广视频卡片并进行实时滑动跟随遮罩。</string>
+</resources>
